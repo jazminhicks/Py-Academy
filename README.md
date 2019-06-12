@@ -1,4 +1,4 @@
-# pycityschools
+# PyCity Schools
 
 
 ## Academy of Py
