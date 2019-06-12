@@ -87,3 +87,15 @@ Your final report should include each of the following:
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 ![schooltype](https://user-images.githubusercontent.com/49836101/59325534-128b6e00-8ca9-11e9-9335-f1198904ed91.png)
+
+# PyCity Schools Analysis
+
+###### Based on the data we can draw the following conclusions about the school district test results:
+
+* Schools with larger budgets do not necessarily result to higher test scores. In fact, we see that students who attended schools that spent less on students on average, scored higher on both their math and reading exams. Details depicting how the budget is used at each school, would be helpful to further verify this finding. 
+
+* There is a correlation between the size of the school and student test scores. Students who attended smaller to medium sized schools (2000 students or less) scored significantly higher overall, compared to those with a student body size between 2,000 - 5,000. Smaller schools typically indicate smaller class sizes, smaller teacher to students ratios and hence these students are likely to be receiving more direct classroom support which may result in better performance. 
+       
+* Additionally, the data shows us that compared to any district school, students at charter schools consistently scored better overall. This may be in part to the smaller school/class size mentioned above, however, the variation in teaching methods at charter schools should also be considered
+
+
