@@ -35,7 +35,9 @@ Your final report should include each of the following:
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
+  
 ![school_sum](https://user-images.githubusercontent.com/49836101/59325526-0acbc980-8ca9-11e9-8295-f0a18d88b081.png)
+
 ### Top Performing Schools (By Passing Rate)
 
 * Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
@@ -49,21 +51,25 @@ Your final report should include each of the following:
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
+
 ![top_performers](https://user-images.githubusercontent.com/49836101/59325540-16b78b80-8ca9-11e9-9d27-25ec4093ad68.png)
 
 ### Bottom Performing Schools (By Passing Rate)
 
 * Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
+
 ![bottom_performers](https://user-images.githubusercontent.com/49836101/59325553-1fa85d00-8ca9-11e9-96c9-cd9e5e1c22b1.PNG)
 
 ### Math Scores by Grade\*\*
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
 ![mathscores](https://user-images.githubusercontent.com/49836101/59325547-1ae3a900-8ca9-11e9-9d24-5a0d2611a3bb.png)
 
 ### Reading Scores by Grade
 
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
 ![readingscores](https://user-images.githubusercontent.com/49836101/59325522-07d0d900-8ca9-11e9-8189-400d2363be23.png)
 
 
@@ -75,11 +81,13 @@ Your final report should include each of the following:
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
+
 ![spending](https://user-images.githubusercontent.com/49836101/59325537-14edc800-8ca9-11e9-9b3e-bdcf67c3de68.png)
 
 ### Scores by School Size
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+
 ![schoolsize](https://user-images.githubusercontent.com/49836101/59325532-0f907d80-8ca9-11e9-96c7-b4198a556182.png)
 
 ### Scores by School Type
